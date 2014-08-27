@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1408769865 source:/home/wuhong/Project/ACM/Multi-9/K.cc
+	<iostream>
+	<cstdio>
+
+1408773840 source:/home/wuhong/Project/ACM/Multi-9/a.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<map>
+	<vector>
+
+1408781665 source:/home/wuhong/Project/ACM/Multi-9/g.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1408783964 source:/home/wuhong/Project/ACM/Multi-9/j.cc
+	<iostream>
+	<cstdio>
+

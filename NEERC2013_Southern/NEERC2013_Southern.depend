@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1407651718 source:/home/wuhong/Project/ACM/NEERC2013_Southern/h.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+
+1407653905 source:/home/wuhong/Project/ACM/NEERC2013_Southern/k.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<queue>
+
+1407722098 source:/home/wuhong/Project/ACM/NEERC2013_Southern/j.cc
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1407740138 source:/home/wuhong/Project/ACM/NEERC2013_Southern/g.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<map>
+
+1407753286 source:/home/wuhong/Project/ACM/NEERC2013_Southern/e.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<string>
+	<vector>
+	<algorithm>
+
