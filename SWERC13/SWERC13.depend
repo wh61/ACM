@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1409381001 source:/home/wuhong/Project/ACM/SWERC13/i.cc
+	<iostream>
+	<cstdio>
+	<map>
+	<vector>
+	<string>
+	<cstring>
+	<queue>
+	<set>
+	<algorithm>
+
+1409386593 source:/home/wuhong/Project/ACM/SWERC13/d.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<string>
+
+1409407276 source:/home/wuhong/Project/ACM/SWERC13/e.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<string>
+	<map>
+	<set>
+	<vector>
+
+1409403786 source:/home/wuhong/Project/ACM/SWERC13/h.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+

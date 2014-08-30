@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1409120420 source:/home/wuhong/Project/ACM/changchun2013/d.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<map>
+	<algorithm>
+	<vector>
+
+1409138657 source:/home/wuhong/Project/ACM/changchun2013/f.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+
