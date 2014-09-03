@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1409471945 source:/home/wuhong/Project/ACM/SWERC12/a.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<queue>
+
+1409466984 source:/home/wuhong/Project/ACM/SWERC12/a.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1409475021 source:/home/wuhong/Project/ACM/SWERC12/acc.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<queue>
+
