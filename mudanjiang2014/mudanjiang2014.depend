@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1410070495 source:/home/wuhong/Project/ACM/mudanjiang2014/c.cc
+	<iostream>
+	<cstring>
+	<string>
+	<cstdio>
+	<queue>
+
+1410082177 source:/home/wuhong/Project/ACM/mudanjiang2014/h.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+

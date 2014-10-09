@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1412141747 source:/home/wuhong/Project/ACM/Moscow2013/b.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<set>
+	<map>
+	<vector>
+
+1412146372 source:/home/wuhong/Project/ACM/Moscow2013/k.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<queue>
+	<algorithm>
+
+1412154870 source:/home/wuhong/Project/ACM/Moscow2013/k++.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
+1412149735 source:/home/wuhong/Project/ACM/Moscow2013/f.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1412154514 source:/home/wuhong/Project/ACM/Moscow2013/kk.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<queue>
+	<algorithm>
+
+1412158619 source:/home/wuhong/Project/ACM/Moscow2013/kkk.cc
+	<iostream>
+	<fstream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<cmath>
+	<string>
+	<vector>
+	<queue>
+	<deque>
+	<algorithm>
+	<set>
+	<new>
+	<map>
+

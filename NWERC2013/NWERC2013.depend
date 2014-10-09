@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1411728224 source:/home/wuhong/Project/ACM/NWERC2013/g.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+
+1411733470 source:/home/wuhong/Project/ACM/NWERC2013/d.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<map>
+
+1411733114 source:/home/wuhong/Project/ACM/NWERC2013/d++.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<map>
+
+1411742780 source:/home/wuhong/Project/ACM/NWERC2013/i.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<string>
+

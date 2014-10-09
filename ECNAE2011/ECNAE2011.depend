@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1411908199 source:/home/wuhong/Project/ACM/ECNAE2011/c.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1411914814 source:/home/wuhong/Project/ACM/ECNAE2011/a.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1411918406 source:/home/wuhong/Project/ACM/ECNAE2011/f.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+

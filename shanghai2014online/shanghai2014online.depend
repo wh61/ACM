@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1411793451 source:/home/wuhong/Project/ACM/shanghai2014online/d.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1411803703 source:/home/wuhong/Project/ACM/shanghai2014online/k.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<vector>
+	<queue>
+
+1411806774 source:/home/wuhong/Project/ACM/shanghai2014online/e.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cmath>
+
+1411807847 source:/home/wuhong/Project/ACM/shanghai2014online/epp.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cmath>
+

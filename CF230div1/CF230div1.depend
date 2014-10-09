@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410958255 source:/home/wuhong/Project/ACM/CF230div1/b.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+

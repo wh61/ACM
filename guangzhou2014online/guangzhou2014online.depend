@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411193393 source:/home/wuhong/Project/ACM/guangzhou2014online/b.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+

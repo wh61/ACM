@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1411648758 source:/home/wuhong/Project/ACM/NCPC2008/e.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1411656468 source:/home/wuhong/Project/ACM/NCPC2008/i.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<set>
+
+1411664935 source:/home/wuhong/Project/ACM/NCPC2008/c.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<string>
+	<vector>
+	<set>
+

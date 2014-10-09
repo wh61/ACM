@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1410671862 source:/home/wuhong/Project/ACM/Xian2014online/h.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+
+1410674950 source:/home/wuhong/Project/ACM/Xian2014online/i.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstring>
+	<set>
+	<map>
+
+1410755006 source:/home/wuhong/Project/ACM/Xian2014online/c.cc
+	<iostream>
+	<cstring>
+	<cstdio>
+	<map>
+

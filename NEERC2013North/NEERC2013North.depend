@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1411040434 source:/home/wuhong/Project/ACM/NEERC2013North/b.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+	<algorithm>
+

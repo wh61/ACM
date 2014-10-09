@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1412765288 source:/home/wuhong/Project/ACM/CERC13/l.cc
+	<iostream>
+	<cstdio>
+
+1412781354 source:/home/wuhong/Project/ACM/CERC13/d.cc
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<map>
+	<queue>
+
